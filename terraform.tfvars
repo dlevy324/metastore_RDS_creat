@@ -1,0 +1,5 @@
+databricks_workspace_password="M@gn3t@r"
+databricks_workspace_username="boyd@databricks.com"
+databricks_workspace_url="https://fedramp-test-dev-fedramp-privatelink.staging.cloud.databricks.com"
+#databricks_workspace_id="3568179937292669"
+vpc_id="vpc-024d75e7cb927600f"
