@@ -55,6 +55,11 @@ No modules.
 | <a name="input_region"></a> [region](#input_region) | n/a | `string` | `"us-east-1"` |
 | <a name="input_tags"></a> [tags](#input_tags) | n/a | `map` | <pre>{<br>  "Owner": "someone@databricks.com",<br>  "Project": "dev"<br>}</pre> |
 | <a name="input_vpc_id"></a> [vpc_id](#input_vpc_id) | VPC ID the workspaces is deployed in; used to associate subnets with the new RDS instance | `any` | n/a |
+  
+RDS info:
+- connection endpoint
+- username
+- password
 
 #### Outputs
 
